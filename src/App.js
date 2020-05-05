@@ -1,15 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import MobContainer from "./Component/MobContainer";
+import {Provider} from "react-redux";
+import store from "./Redux/Store";
 
 function App() {
   return (
-    <div className="App">
+      <Provider store={store}>
 
-     <MobContainer/>
+          <div className="App">
 
-    </div>
+              <MobContainer/>
+
+          </div>
+
+      </Provider>
+
   );
 }
 
