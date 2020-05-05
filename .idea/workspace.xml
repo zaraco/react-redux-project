@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="310f51fb-fd41-4f9d-8bd9-191964f6b8e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/MobContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Redux/Mobile/MobileActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Redux/Mobile/MobileReducers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Redux/Mobile/MobileTypes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/Store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588668986322</updated>
-      <workItem from="1588668991343" duration="4796000" />
+      <workItem from="1588668991343" duration="5151000" />
     </task>
     <servers />
   </component>
